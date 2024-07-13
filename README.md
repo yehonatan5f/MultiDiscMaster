@@ -28,7 +28,6 @@ Automatically organize your multi-disc retro game ROMs with ease!
    ```bash
    python organize_games.py /path/to/your/rom/folder
 
-
 📋 Requirements
 * 📝 Python 3.6+
 * 📝 tqdm library (install with pip install tqdm)
