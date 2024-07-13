@@ -43,6 +43,7 @@ Automatically organize your multi-disc retro game ROMs with ease!
 
 
 🎯 Use Case
+
 Perfect for retro gaming enthusiasts with large ROM collections, especially for multi-disc systems like PlayStation 1, Sega CD, or PC Engine CD. Streamlines your library for seamless use with various emulators.
 
 ⚠️ Caution
