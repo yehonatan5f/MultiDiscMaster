@@ -19,7 +19,7 @@ Automatically organize your multi-disc retro game ROMs with ease!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/RetroDiscOrganizer.git
+   git clone https://github.com/yehonatan5f/RetroDiscOrganizer.git
 
 2. Navigate to the script directory:
    ```bash
